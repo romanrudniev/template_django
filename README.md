@@ -1,2 +1,2 @@
-# template.django
+#Django template
 Template for Django start project
