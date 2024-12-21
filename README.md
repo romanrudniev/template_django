@@ -39,3 +39,6 @@ Template for Django start project
    ```
 
 6. Створення нового проєкту Django
+    ```bash
+   
+   ```
