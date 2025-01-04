@@ -38,7 +38,17 @@ Template for Django start project
    pip install requests.txt
    ```
 
-6. Створення нового проєкту Django
+6. Розгорнути Django проєкт
+    ```bash
+   django-admin startproject <найменування_сайту> .
+   ```
+    Крапка вкінці вказує, що проєкт буде розгорнуто в обраній директорії.
+
+
+7. Створюємо додаток
+    ```bash
+   python manage.py startapp <назва_додатку>
+   ```
 
 <hr>
 
