@@ -15,7 +15,7 @@ Template for Django start project
 
 3. Клонувати 
     ```bash
-    git clone "https://github.com/romanrudniev/template.django/tree/main"
+    git clone https://github.com/romanrudniev/template.django.git
     ```
 
 4. Віртуальне середовище
