@@ -38,13 +38,23 @@ Template for Django start project
    pip install requests.txt
    ```
 
-6. Створення нового проєкту Django
+6. Розгорнути Django проєкт
+    ```bash
+   django-admin startproject <найменування_сайту> .
+   ```
+    Крапка вкінці вказує, що проєкт буде розгорнуто в обраній директорії.
+
+
+7. Створюємо додаток
+    ```bash
+   python manage.py startapp <назва_додатку>
+   ```
 
 <hr>
 
 <h2>У проєкту є дві гілки:</h2>
 
-1.(`main`) дерикторія `templates` знаходиться у дерикторії `app`
+1. (`main`) дерикторія `templates` знаходиться у дерикторії `app`
 <br>
-2.(`main_templates`) дерикторія `templates` знаходиться у загальній дерикторії
+2. (`main_templates`) дерикторія `templates` знаходиться у загальній дерикторії
 
