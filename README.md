@@ -52,7 +52,7 @@ Template for Django start project
 
 <hr>
 
-<h2>У проєкту є дві гілки:</h2>
+<h2>У проєкту є дві гілки:</h2>      
 
 1. (`main`) дерикторія `templates` та `static` знаходиться у дерикторії `app`
 <br>
