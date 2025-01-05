@@ -56,4 +56,4 @@ Template for Django start project
 
 1.(`main`) дерикторія `templates` та `static` знаходиться у дерикторії `app`
 <br>
-2.(`main_templates`) дерикторія `templates` та `static` знаходиться у загальній дерикторії
+2.(`main_templates`) дерикторія `templates` та  знаходиться у загальній дерикторії
