@@ -54,6 +54,6 @@ Template for Django start project
 
 <h2>У проєкту є дві гілки:</h2>
 
-1.(`main`) дерикторія `templates` знаходиться у дерикторії `app`
+1.(`main`) дерикторія `templates` та `static` знаходиться у дерикторії `app`
 <br>
-2.(`main_templates`) дерикторія `templates` знаходиться у загальній дерикторії
+2.(`main_templates`) дерикторія `templates` та `static` знаходиться у загальній дерикторії
