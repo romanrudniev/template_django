@@ -35,7 +35,7 @@ Template for Django start project
 
 5. Встановлення необхідних модулів
    ```bash
-   pip install requests.txt
+   pip install requirements
    ```
 
 6. Розгортаємо Django проєкт
